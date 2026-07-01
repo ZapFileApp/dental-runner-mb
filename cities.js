@@ -1,20 +1,11 @@
 const manitobaCities = [
-  "Lac du Bonnet", "Langruth", "Leaf Rapids", "Libau", "Little Grand Rapids",
-  "Lockport", "Lundar", "Lynn Lake", "MacGregor", "Mafeking",
-  "Manigotagan", "Manitou", "McAuley", "McCreary", "Melita",
-  "Miami", "Miniota", "Minnedosa", "Minto", "Moose Lake",
-  "Morden", "Morris", "Neepawa", "Nelson House", "Newdale",
-  "Niverville", "Norway House", "Notre Dame de Lourdes", "Oak Lake", "Oak River",
-  "Oakville", "Ochre River", "Oxford House", "Peguis", "Pelican Rapids",
-  "Pikwitonei", "Pilot Mound", "Pinawa", "Pine Dock", "Pine Falls",
-  "Pine River", "Piney", "Plum Coulee", "Plumas", "Pointe du Bois",
-  "Poplar River", "Poplarfield", "Portage la Prairie", "Rapid City", "Rathwell",
-  "Red Sucker Lake", "Rennie", "Reston", "Rivers", "Riverton",
-  "Roblin", "Roland", "Rorketon", "Rossburn", "Russell",
-  "Sandy Lake", "Sanford", "Selkirk", "Shamattawa", "Shilo",
-  "Shoal Lake", "Sidney", "Sifton", "Snow Lake", "Snowflake",
-  "Somerset", "Souris", "South Indian Lake", "Sperling", "Split Lake",
-  "Sprague", "St-Pierre-Jolys", "St. Claude", "St. Francois Xavier", "St. Jean Baptiste",
+  "St. Laurent", "St. Lazare", "Starbuck", "Ste. Agathe", "Ste. Rose du Lac",
+  "Steep Rock", "Steinbach", "Stonewall", "Strathclair", "Swan Lake",
+  "Swan River", "Tadoule Lake", "Teulon", "The Pas", "Thicket Portage",
+  "Thompson", "Treherne", "Virden", "Vita", "Waasagomach",
+  "Wabowden", "Wanless", "Wasagaming", "Waterhen", "Wawanesa",
+  "Whitemouth", "Winkler", "Winnipeg", "Winnipeg Beach", "Winnipegosis",
+  "Woodridge",
 ];
 
 const BATCH_SIZE = 5;
